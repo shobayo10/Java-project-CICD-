@@ -11,7 +11,7 @@
   <version>1.0.0</version>
 
   <!-- REPLACE WITH YOUR GITHUB_USERNAME -->
-  <groupId>GITHUB_USERNAME</groupId>
+  <groupId>shobayo10</groupId>
 
   <distributionManagement>
     <repository>
@@ -19,7 +19,7 @@
       <name>GitHub Packages</name>
 
       <!-- REPLACE WITH YOUR GITHUB_USERNAME and GITHUB_REPONAME -->
-      <url>https://maven.pkg.github.com/GITHUB_USERNAME/GITHUB_REPONAME</url>
+      <url>https://maven.pkg.github.com/shobayo10/Java-project-CICD-</url>
 
     </repository>
   </distributionManagement>
